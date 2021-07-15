@@ -50,6 +50,7 @@
     <Compile Include="FWaterMark.Designer.cs">
       <DependentUpon>FWaterMark.cs</DependentUpon>
     </Compile>
+    <Compile Include="InIHelper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WaterMarkTools.cs" />
